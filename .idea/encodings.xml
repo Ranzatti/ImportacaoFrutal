@@ -10,6 +10,7 @@
     <file url="file://$PROJECT_DIR$/src/ImportaOrdemPagamento.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ImportaPagamento.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ImportaTransferencia.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/AgenciaDAO.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/dao/ContasBancariaDAO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/dao/FonteRecursoDAO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/db/ConexaoDB.java" charset="UTF-8" />
