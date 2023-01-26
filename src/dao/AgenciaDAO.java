@@ -28,7 +28,7 @@ public class AgenciaDAO {
 			stmtAux.executeUpdate();
 			stmtAux.close();
 		} catch (SQLException e) {
-			System.err.println("Erro de Inclusão Agencia");
+			System.err.println("Erro de Inclusï¿½o Agencia");
 			e.printStackTrace();
 		} 
 	}
@@ -40,7 +40,7 @@ public class AgenciaDAO {
 			stmtAux.executeUpdate();
 			stmtAux.close();
 		} catch (SQLException e) {
-			System.err.println("Erro de Exclusão Agencia");
+			System.err.println("Erro de Exclusï¿½o Agencia");
 			e.printStackTrace();
 		}
 	}
@@ -63,7 +63,7 @@ public class AgenciaDAO {
 			stmtAux.close();
 			rsAux.close();
 		} catch (SQLException e) {
-			System.err.println("Erro de Seleção de Agencia");
+			System.err.println("Erro de Seleï¿½ï¿½o de Agencia");
 			e.printStackTrace();
 		}
 
